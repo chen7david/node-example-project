@@ -1,6 +1,6 @@
 # node-example-project
 
-### Dockerizing your Vue app
+### Dockerizing your Node App
 #### Dockerfile
 
 ```dockerfile
